@@ -94,7 +94,7 @@ A developer with zero OSS contributions can go from "I want to contribute" to "I
 
 **User Flow:**
 ```
-🏠 Home → Enter GitHub Username
+🏠 Home → Enter GitHub Url
     ↓
 👤 Profile → See AI skill analysis
     ↓
