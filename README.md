@@ -342,11 +342,9 @@ Look for [`good-first-issue`](https://github.com/Niladribhusan-1/oss-compass-/la
 - [ ] GitLab and Bitbucket support
 - [ ] User authentication & profiles
 - [ ] Contribution history tracker
-- [ ] Browser extension version
-- [ ] CLI tool (`npm install -g oss-compass`)
 - [ ] Multi-language UI support
 
-See full [ROADMAP.md](./ROADMAP.md) for details.
+
 
 ---
 
