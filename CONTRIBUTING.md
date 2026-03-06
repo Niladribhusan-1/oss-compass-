@@ -1,4 +1,4 @@
-# How to Contribute to [project-name]
+# How to Contribute to [OSS-COMPASS]
 
 Thanks for your interest! We welcome contributions of all sizes—code, docs, issues, or feedback. Follow these steps to get started.[web:44]
 
@@ -8,7 +8,7 @@ By participating, you agree to our [Code of Conduct](CODE_OF_CONDUCT.md). We aim
 
 ## Reporting Issues
 
-- Check [existing issues](https://github.com/[username]/[repo]/issues) first.
+- Check [existing issues](https://github.com/[Niladribhusan-1]/[repo]/issues) first.
 - Create a new issue with: clear title, steps to reproduce, expected vs. actual behavior, environment details (OS, version).
 - Use labels like "bug", "enhancement", or "good first issue" if available.[web:47]
 
