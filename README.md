@@ -66,7 +66,7 @@ A developer with zero OSS contributions can go from "I want to contribute" to "I
 ## ✨ Features
 
 ### 🔍 AI Profile Analyzer
-- Paste your GitHub username → AI fetches and reads your repos
+- Paste your GitHub url → AI fetches and reads your repos
 - Detects your real skill level (beginner / intermediate / advanced)
 - Identifies your top languages, frameworks, and contribution styles
 - Generates a confidence-scored developer profile summary
