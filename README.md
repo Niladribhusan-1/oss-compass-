@@ -90,7 +90,7 @@ A developer with zero OSS contributions can go from "I want to contribute" to "I
 
 > 📸 Screenshots / GIF coming soon
 
-**Live Demo:** [oss-compass.vercel.app](https://oss-compass.vercel.app) *(coming soon)*
+**Live Demo:**https://asset-organizer--niladribhusan1.replit.app/
 
 **User Flow:**
 ```
@@ -133,7 +133,6 @@ git
 
 You'll also need:
 - **Gemini API Key** → [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey) (free)
-- **GitHub Token** → [github.com/settings/tokens](https://github.com/settings/tokens) (for higher rate limits)
 
 ---
 
