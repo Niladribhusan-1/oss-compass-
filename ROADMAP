@@ -1,1 +1,40 @@
-
+User Opens App
+      │
+      ▼
+┌─────────────────────┐
+│  🏠 HOME PAGE       │
+│  Enter GitHub       │
+│  Username           │
+└─────────────────────┘
+      │
+      │ GitHub Username
+      ▼
+┌─────────────────────┐
+│  👤 PROFILE PAGE    │
+│  GitHub API fetches │
+│  your repos         │
+│  + AI analyzes      │
+│  your skill level   │
+└─────────────────────┘
+      │
+      │ Click "Find My Projects"
+      ▼
+┌─────────────────────┐
+│  🎯 RECOMMEND PAGE  │
+│  AI suggests 6      │
+│  matched OSS repos  │
+│  + real issues      │
+└─────────────────────┘
+      │
+      │ Click "AI Explain"
+      ▼
+┌─────────────────────┐
+│  📚 MENTOR PAGE     │
+│  AI explains repo   │
+│  structure + gives  │
+│  first PR idea      │
+└─────────────────────┘
+      │
+      ▼
+   🎉 User makes their
+   first OSS contribution!
